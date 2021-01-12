@@ -3,12 +3,12 @@
 
 
 ### I'm a Front-end Developer from Bulgaria! 
-### I'm also a positive person, a realist, a happy uncle and enthusiastic about learning new things.
+### I'm a realist, a positive person, a happy uncle and enthusiastic about learning new tehnologies and improve your skills.
 
 <br />
 
 - 🌱 I’m currently learning JavaScript and React
-- ⚡ I’m looking for a new challenge
+- ⚡ I’m looking for a new job and new challenge 
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - 👯 Мy hobbies are: long walks in nature, football, movies and fun trips with friends
 
