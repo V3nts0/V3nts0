@@ -3,7 +3,7 @@
 
 
 ### I'm a Front-end Developer from Bulgaria! 
-### I'm a realist, a positive person, a happy uncle and enthusiastic about learning new tehnologies and improve your skills.
+### I'm a realist, a positive person, a happy uncle and enthusiastic about learning new tehnologies and improve my skills.
 
 <br />
 
