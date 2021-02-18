@@ -1,10 +1,10 @@
 <div fload="right">
-## Hi there, I'm Ventsi
+## I'm Ventsi
 
 
 
-### I'm a Front-end Developer from Bulgaria! 
-### I'm a positive person, a happy uncle and enthusiastic about learning new tehnologies and improve my skills.
+### Front-end Developer from Bulgaria! 
+### I'm a realist, positive person, a happy uncle  and enthusiastic about learning new tehnologies and improve my skills.
 </div>
 <br />
 
@@ -13,8 +13,8 @@
 - 👯 Мy hobbies are: love being in nature, football, movies and fun trips with friends
 
 - ⚡ I’m looking for a new job and new challenge 
-- 
-- 🥅 2021 Goals: Contribute more to Open Source projects and to learn node.js and put my knowledge into practice
+
+- 🥅 2021 Goals: Contribute more to Open Source projects and to learn Node.js and put my knowledge into practice
 <br />
 
 ## Languages and Tools:
