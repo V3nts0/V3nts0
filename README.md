@@ -1,11 +1,9 @@
-<div fload="right">
-## I'm Ventsi
+### I'm Ventsi
 
 
 
 ### Front-end Developer from Bulgaria! 
 ### I'm a realist, positive person, a happy uncle  and enthusiastic about learning new tehnologies and improve my skills.
-</div>
 <br />
 
 - 🌱 I’m currently learning JavaScript and React
