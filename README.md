@@ -3,16 +3,16 @@
 
 
 ### Front-end Developer from Bulgaria! 
-### I'm a realist, positive person, a happy uncle  and enthusiastic about learning new tehnologies and improve my skills.
+### I'm a realist, positive person and enthusiastic about learning new tehnologies and improve my skills.
 <br />
 
 - 🌱 I’m currently learning JavaScript and React
 
-- 👯 Мy hobbies are: love being in nature, football, movies and fun trips with friends
+- 👯 Мy hobbies are: I would say that I really enjoy being in the nature, football, movies and trips with friends.
 
-- ⚡ I’m looking for a new job and new challenge 
+- ⚡ I’m looking for a new job and new challenges. 
 
-- 🥅 2021 Goals: Contribute more to Open Source projects and to learn Node.js and put my knowledge into practice
+- 🥅 2021 Goals: Contribute more to Open Source projects and to learn Node.js and put my knowledge into practice.
 <br />
 
 ## Languages and Tools:
