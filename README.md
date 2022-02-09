@@ -12,7 +12,7 @@
 
 - ⚡ I’m looking for a new job and new challenges. 
 
-- 🥅 2021 Goals: Contribute more to Open Source projects and to learn Node.js and put my knowledge into practice.
+- 🥅 2022 Goals: Contribute more to Open Source projects and to learn Node.js and put my knowledge into practice.
 <br />
 
 ## Languages and Tools:
